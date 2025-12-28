@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Tijn (Tembee2)</h1>
+<h1>Hi 👋, I'm Tijn (meteorbee)</h1>
 <p>A gamedev and software engineer from The Netherlands</p>
 <p>If you're wondering why I have no public repositories, its because I privated a lot of them recently.</p>
 <h2>🚀 Languages and Tools I Use</h2>
