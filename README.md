@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Tijn (meteorbee)</h1>
+<h1>Hi 👋, I'm meteorbee</h1>
 <p>A gamedev and software engineer from The Netherlands</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
